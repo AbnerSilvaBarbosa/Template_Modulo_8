@@ -28,7 +28,7 @@
   * [Implementações](#implementações)
   * [Demo](#demo)
 * [Histórico de lançamentos](#-histórico-de-lançamentos)
-* [Licença/License](#-licença/license)
+* [Licença/License](#-licençalicense)
 * [Referências](#referências)
 
 
