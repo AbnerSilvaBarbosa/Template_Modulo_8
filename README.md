@@ -29,7 +29,7 @@
   * [Demo](#demo)
 * [Histórico de lançamentos](#-histórico-de-lançamentos)
 * [Licença/License](#-licençalicense)
-* [Referências](#referências)
+* [Referências](#-referências)
 
 
 ## 📜Descrição
