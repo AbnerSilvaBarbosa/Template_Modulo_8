@@ -18,8 +18,21 @@
 
 ## 🔍 Sumário
 
+* [Descrição](## 📜Descrição)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
 
-## 📜 Descrição
+
+## 📜Descrição
 
 A solução de arquitetura desenvolvida para a Meta foi projetada para aprimorar requisitos funcionais específicos, visando proporcionar uma abordagem inovadora para obter informações atualizadas sobre tópicos relevantes para empresas. Ao integrar interações de voz e texto, os usuários podem realizar buscas precisas sobre as discussões das empresas em relação a temas específicos. Por exemplo, é possível explorar o que empresas do setor financeiro estão debatendo sobre otimização e planejamento financeiro. Além disso, o robusto mecanismo de IA por trás dessa solução é capaz de compreender não apenas as perspectivas da Meta, mas também de outras empresas de tecnologia sobre esses temas, identificando quais tecnologias da Meta estão relacionadas, oferecendo assim um acesso conveniente a insights de mercado, tendências e informações competitivas.
 
