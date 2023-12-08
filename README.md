@@ -19,12 +19,12 @@
 ## 🔍 Sumário
 
 * [Descrição](#descrição)
-* [Badges](#-estrutura-de-pastas)
+* [Estrutura de pastas](#-estrutura-de-pastas)
 * [Documentação do sistema atual](#-documentação-do-sistema-atual)
 * [Documentação do sistema novo](#-documentação-do-sistema-novo)
 * [Documentação da simulação](#-documentação-da-simulação)
-* [Instalação](#instalação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Instalação](#-instalação)
+  * [Tecnologias](#tecnologias)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
