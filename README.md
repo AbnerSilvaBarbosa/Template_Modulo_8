@@ -25,11 +25,11 @@
 * [Documentação da simulação](#-documentação-da-simulação)
 * [Instalação](#-instalação)
   * [Tecnologias](#tecnologias)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+  * [Implementações](#implementações)
+  * [Demo](#demo)
+* [Histórico de lançamentos](#-histórico-de-lançamentos)
+* [Licença/License](#-licença/license)
+* [Referências](#referências)
 
 
 ## 📜Descrição
