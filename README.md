@@ -7,9 +7,6 @@
 # Proposta de Arquitetura de Software
 
 ## Grupo X - Nome do Grupo
-<p align="center">
-  <img src="https://i.imgur.com/IcdQOxa.png" alt="Grupo logo" border="0" width="312px">
-</p>
 
 ### 🚀 Integrantes
 - <a href="">Abner Silva</a>
@@ -105,13 +102,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 src: todo o código fonte criado para o desenvolvimento do projeto, incluindo os blocos de código do circuito, backend e frontend se aplicáveis.
 
 ## 📄 Documentação do sistema atual
-- <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
+  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> [exemplo.md](README.md)</a> 
 
 ## 📄 Documentação do sistema novo
-- <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
+  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> [exemplo.md](README.md)</a> 
 
 ## 📄 Documentação da simulação
-- <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
+  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> [exemplo.md](README.md)</a> 
 
 ## 🔧 Instalação
 
