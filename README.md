@@ -19,6 +19,9 @@
 - <a href="">Abner Silva</a>
 - <a href="">Abner Silva</a>
 
+## 🔍 Sumário
+
+
 ## 📜 Descrição
 
 A solução de arquitetura desenvolvida para a Meta foi projetada para aprimorar requisitos funcionais específicos, visando proporcionar uma abordagem inovadora para obter informações atualizadas sobre tópicos relevantes para empresas. Ao integrar interações de voz e texto, os usuários podem realizar buscas precisas sobre as discussões das empresas em relação a temas específicos. Por exemplo, é possível explorar o que empresas do setor financeiro estão debatendo sobre otimização e planejamento financeiro. Além disso, o robusto mecanismo de IA por trás dessa solução é capaz de compreender não apenas as perspectivas da Meta, mas também de outras empresas de tecnologia sobre esses temas, identificando quais tecnologias da Meta estão relacionadas, oferecendo assim um acesso conveniente a insights de mercado, tendências e informações competitivas.
@@ -101,6 +104,15 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 src: todo o código fonte criado para o desenvolvimento do projeto, incluindo os blocos de código do circuito, backend e frontend se aplicáveis.
 
+## 📄 Documentação do sistema atual
+- <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
+
+## 📄 Documentação do sistema novo
+- <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
+
+## 📄 Documentação da simulação
+- <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
+
 ## 🔧 Instalação
 
 Para a instalação desse projeto, é necessário ter alguns recursos instalados na máquina que irá executar. Nota-se que além das instalações necessárias, também destaca-se que é relevante a versão de cada uma dessas tecnologias, haja vista que podem ocorrer falhas na execução, devido a configuração do projeto.
@@ -115,10 +127,24 @@ Para a instalação desse projeto, é necessário ter alguns recursos instalados
 - Node 14.17.6
 
 ### Implementações
-- Passo a Passo de como incicializar as implmentações localmente ( Recomenda-se para facilitar a documentação e a propria instalação utilizar docker compose)
+- Passo a Passo de como incicializar as implmentações localmente ( Recomenda-se para facilitar a documentação e a propria instalação utilizar docker compose).
+
+Exemplo :
+
+```bash
+  git clone ***
+  cd my-project
+```
 
 ### Demo
 - Passo a Passo de como incicializar a demo localmente ( Recomenda-se para facilitar a documentação e a propria instalação utilizar docker compose)
+
+Exemplo :
+
+```bash
+  git clone ***
+  cd my-project
+```
 
 ## 🗃 Histórico de lançamentos
 
