@@ -19,7 +19,7 @@
 ## 🔍 Sumário
 
 * [Descrição](#descrição)
-* [Badges](#Estrutu)
+* [Badges](#estrutura_de_pastas)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
