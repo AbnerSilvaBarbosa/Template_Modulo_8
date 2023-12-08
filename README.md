@@ -115,13 +115,16 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 src: todo o código fonte criado para o desenvolvimento do projeto, incluindo os blocos de código do circuito, backend e frontend se aplicáveis.
 
 ## 📄 Documentação do sistema atual
+  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.pdf</a>
   - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.md</a> 
 
 ## 📄 Documentação do sistema novo
+  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.pdf</a>
   - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.md</a> 
 
 ## 📄 Documentação da simulação
-  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.md</a> 
+  - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.pdf</a>
+ - <a href=""><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"> Exemplo.md</a> 
 
 ## 🔧 Instalação
 
