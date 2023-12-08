@@ -18,7 +18,7 @@
 
 ## 🔍 Sumário
 
-* [Descrição](## 📜Descrição)
+* [Descrição](#descrição)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
