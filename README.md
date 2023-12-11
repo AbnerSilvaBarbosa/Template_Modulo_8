@@ -38,31 +38,20 @@ A solução de arquitetura desenvolvida para a Meta foi projetada para aprimorar
 
 **Principais melhorias da arquitetura:**
 
-- **Busca por comandos de voz e texto:** É possível a utilização de comandos de voz ou texto para fazer perguntas em linguagem natural, como "O que as empresas do ramo financeiro estão falando sobre otimização e planejamento financeiro?"
+- **Acurácia do modelo:** lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
 
-- **Busca inteligente:** A aplicação utiliza tecnologias avançadas de Inteligência Artificial (IA) e Processamento de Linguagem Natural (NLP) para buscar informações relevantes em documentos e fontes confiáveis.
-
-- **Resultados abrangentes:** Além de informações do mercado em geral, o motor de IA também fornece insights sobre o que a IBM e outras empresas de tecnologia estão dizendo sobre o tema, destacando as tecnologias da IBM envolvidas.
-
-- **Interoperabilidade:** A solução é compatível com uma variedade de dispositivos e sistemas operacionais, incluindo integração com dispositivos de hardware em diferentes ambientes.
-
-- **Privacidade e segurança:** A coleta e o uso de dados dos usuários estão em conformidade com as regulamentações de privacidade, garantindo a segurança e a proteção dos dados pessoais.
-
-- **Protótipo funcional:** A solução é entregue como um protótipo funcional, demonstrando as principais funcionalidades que podem ser refinadas e expandidas conforme necessário.
+- **Disponibilidade:** lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
+  
+- **Segurança:** lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
 
 Este projeto visa melhorar a capacidade de tomada de decisões informadas e manter os profissionais de vendas e clientes da IBM atualizados com informações cruciais sobre o mercado e tópicos relevantes. 
 
 ## 📁 Estrutura de pastas
-
-
 - 📂 __Projeto5M2__
    - 📄 [README.md](README.md)
-   - 📂 __[.vscode](.vscode/)__
-      - <a href="https://emoji.gg/emoji/8009-java-js"><img src="https://cdn3.emoji.gg/emojis/8009-java-js.png" width="16px" height="16px" alt="Java_Js"></a> sttings.js
    - 📂 __[documentos](documentos/)__
       - <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual de Administrador
       - <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> Manual do Utilizador
-      - <a href="https://github.com/2022M2T3/Projeto4/blob/main/documentos/WAD%20-%20Yamaha%20Planning%20System.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> WAD Grupo 5 - Intech
    - 📁 __[imagens](imagens/)__
    - 📂 __[src](src/)__
       - 📂 __[Backend](src/Backend)__
@@ -200,14 +189,12 @@ Exemplo :
 
 ## 📋 Licença/License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="#">Kepler</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="#">Inteli, Abner Silva Barbosa, Daniel da Silva Cunha, Emanuel Costa, Gabriel Nascimento, Livia Coutinho, Mateus Neves, Priscila Falcão</a> is 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="#">Nome do grupo</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="#">Inteli, Abner Silva Barbosa, Abner Silva Barbosa, Abner Silva Barbosa, Abner Silva Barbosa, Abner Silva Barbosa, Abner Silva Barbosa</a> is 
 licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 ## 🎓 Referências
 
 IBM. Encontre respostas rapidamente com documentos e soluções Cloud. Disponível em: <https://cloud.ibm.com/docs?locale=pt-BR>. Acesso em: set. 2023.
-
-IBM. Speech to text. Disponível em: <https://cloud.ibm.com/apidocs/speech-to-text>. Acesso em: ago. 2023.
 
 ADZLANI, Nasri. RabbitMQ on Docker and python. Disponível em: <https://nasriadzlani.medium.com/rabbitmq-on-docker-and-python-300e449fcc8c>. Acesso em: set. 2023.
 
